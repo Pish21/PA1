@@ -8,6 +8,9 @@ using namespace std;
 int main(int vargs, char* argv[])
 {
 	//This is just a comment.
+	//This is a second comment for github project
+
+
 
 	cout << "Current version is " ;
 	cout << displayVersion(1.2) << endl;
